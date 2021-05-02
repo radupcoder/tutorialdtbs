@@ -1,1 +1,1 @@
-FIles for tutorial https://tutorialdtbs.com/caching-with-hazelcast-in-memory-data-grid/.
+Files for tutorial https://tutorialdtbs.com/caching-with-hazelcast-in-memory-data-grid/.
